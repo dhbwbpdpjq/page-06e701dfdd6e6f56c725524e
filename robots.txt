@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zh.10rzfv.cn/sitemap.xml
